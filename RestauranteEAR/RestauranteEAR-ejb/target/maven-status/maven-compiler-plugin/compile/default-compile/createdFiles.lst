@@ -1,0 +1,5 @@
+com\hm\restaurante\dao\impl\FacturaDAOImpl.class
+com\hm\restaurante\dao\impl\MesaDAOImpl.class
+com\hm\restaurante\dao\impl\CamareroDAOImpl.class
+com\hm\restaurante\dao\impl\ClienteDAOImpl.class
+com\hm\restaurante\dao\impl\CocineroDAOImpl.class

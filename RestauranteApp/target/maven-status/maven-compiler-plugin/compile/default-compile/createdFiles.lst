@@ -1,0 +1,6 @@
+com\hm\restaurante\restauranteapp\AppInitializer.class
+com\hm\restaurante\restauranteapp\controller\ClienteController.class
+com\hm\restaurante\restauranteapp\service\impl\FachadaServiceImpl.class
+com\hm\restaurante\restauranteapp\AppConfig.class
+com\hm\restaurante\restauranteapp\service\FachadaService.class
+com\hm\restaurante\restauranteapp\util\Utilidades.class
